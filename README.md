@@ -3,4 +3,8 @@ Xraster is a tool designed for scientists and specialists to analyze multidimens
 
 Xraster is embedded as a plugin in QGIS, enabling two-way integration for data processing. The plugin uses raster and point layers created in QGIS and generates data (raster layers and text data) that can be used within the program, creating a simple Multidimensional GIS. Xraster is based on the functionalities of the Python module xarray, providing an interface to this module, allowing the entire data processing and analysis workflow to be carried out without the need for programming. 
 
+Videos:
+
+Xraster (users guide) - coastal waters monitoring      https://youtu.be/MVE8LaGd9uM  
+
 Data download for videos:   https://nc-marbefes.iopan.pl/nextcloud/s/qBWXn5TmYqkmPww  
