@@ -6,9 +6,9 @@ Xraster is embedded as a plugin in QGIS, enabling two-way integration for data p
 Videos:
 
 Xraster (users guide) - coastal waters monitoring      https://youtu.be/MVE8LaGd9uM  
-        data for video:
-                  cmems_mod_bal_phy_anfc_P1D-m_ZG23_11_24_10.nc
-                  ZG2_zones4.tif
+-----data for video:
+----------cmems_mod_bal_phy_anfc_P1D-m_ZG23_11_24_10.nc
+----------ZG2_zones4.tif
 
                   
 Data download for videos:   https://nc-marbefes.iopan.pl/nextcloud/s/qBWXn5TmYqkmPww  
