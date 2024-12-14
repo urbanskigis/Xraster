@@ -14,5 +14,15 @@ Xraster (users guide) - climate analysis    https://youtu.be/btqZyZaCcj8
 
 ........data for video: opadPL_1950_2023.nc, temp_maxPL_1950_2023.nc, temp_srPL_1950_2023.nc, PLmask_woj.tif, puck_bay_coast1cell.tif, watershad_mask_KW.tif  
 
+Baltic eutrophisation with Xraster           https://youtu.be/Q4nnglSsanA
+
+.......data for video: bal_bgc_m_1993_2023surf.nc, pbal_o2_m_1993_2023.nc, baltic_zones34.tif
+
+How to Create a Mask for Xraster            https://youtu.be/y7LF3ptTy3A 
+
+.......data for video: Baltic_subbasins2.zip
+
+QGIS Analysis of Xraster Zonal Statistics Output       https://youtu.be/_E8teYpUJts
+
 
 Data download for videos:   https://nc-marbefes.iopan.pl/nextcloud/s/qBWXn5TmYqkmPww  
