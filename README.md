@@ -25,5 +25,9 @@ How to Create a Mask for Xraster            https://youtu.be/y7LF3ptTy3A
 <br>
 QGIS Analysis of Xraster Zonal Statistics Output       https://youtu.be/_E8teYpUJts
 
+<br> Xraster analyzes the thermohaline structure and ice extent in the Arctic.      https://youtu.be/8YJOPwgh6Qs 
+
+<br> Xraster analyzes the climate changes (air temperature) in Antarctica.          https://youtu.be/QfBCvPbj7iU              
+
 <br><br>
 Data download for videos:   https://nc-marbefes.iopan.pl/nextcloud/s/qBWXn5TmYqkmPww  
