@@ -61,7 +61,7 @@ Merge - Merging NetCDF files by time or by  variables.
 Data Export - Exports the current data subset to a NetCDF file. 
 <br><br>
 <b>Manual and Tutorial</b><br><br>
-The manual  <b>Xraster_QGIS_Plugin_user_manual_EN_03.pdf</b>  and the tutorial  <b>Xraster_tutorial_v3.pdf</b> together with the accompanied data, are aveilable.  <br><br>
+The manual  <b>Xraster_QGIS_Plugin_user_manual_EN_03.pdf</b>  and the tutorial  <b>Xraster_tutorial_v3.pdf</b> together with the accompanied data, are available.  <br><br>
 <b>Contribute</b><br><br>
 Jacek Urbański<br><br>
 <b>Licence</b><br><br>
