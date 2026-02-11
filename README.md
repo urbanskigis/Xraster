@@ -1,7 +1,7 @@
 # Xraster
 
 NEW
-11.02.2026 — Added a new tutorial for version 4 covering the program’s new tools. Fixed a bug in the Merge tool (Clip/Merge tab) that caused problems when combining data from different sources (enforced identical coordinates).
+11.02.2026 — Added a new tutorial for version 4 covering the program’s new tools. (xraster_gis_041.zip) Fixed a bug in the Merge tool (Clip/Merge tab) that caused problems when combining data from different sources (enforced identical coordinates).
 
 <b>About</b>
 
