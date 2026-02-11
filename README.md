@@ -1,4 +1,8 @@
 # Xraster
+
+NEW
+11.02.2026 — Added a new tutorial for version 4 covering the program’s new tools. Fixed a bug in the Merge tool (Clip/Merge tab) that caused problems when combining data from different sources (enforced identical coordinates).
+
 <b>About</b>
 
 Xraster is a tool designed for scientists and specialists to analyze multidimensional data describing the marine environment and climate. This data is provided by various organizations and scientific institutions (e.g., the European Union's Copernicus Programme) in the NetCDF format, which allows for the creation, access, and dissemination of array-oriented data. The array represents a grid on the Earth’s surface, with variables assigned to each cell. Depending on spatial factors, the grid can be 2-dimensional (e.g., sea surface temperature) or 3-dimensional (e.g., water temperature with depth). An additional dimension characterizing this data is time, resulting in data sets that are typically 3-dimensional (x, y, and time) or 4-dimensional (x, y, z, and time). Geographic Information Systems (GIS) are the primary tools for spatial data analysis.
