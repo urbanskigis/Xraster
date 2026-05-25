@@ -1,4 +1,6 @@
 # Xraster
+NEW
+25.05.2026 - Added Xrast_plot_ipynb.zip, which contains four Jupyter notebooks demonstrating how to create advanced plots in Python from text files exported by Xraster.
 
 NEW
 11.02.2026 — Added a new tutorial for version 4 covering the program’s new tools. (xraster_gis_041.zip) Fixed a bug in the Merge tool (Clip/Merge tab) that caused problems when combining data from different sources (enforced identical coordinates).
