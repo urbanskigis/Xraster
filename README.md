@@ -1,5 +1,8 @@
 # Xraster
 NEW
+16.09.2026 - The new version (5) of Xraster introduces a workflow for the calculation, analysis, and mapping of Marine Heat Waves (MHWs), based on the standard definition commonly used in marine science. The workflow is described in a separate tutorial. Additionally, a new tutorial for the analysis of climate data has been added, available in both Polish and English.
+
+NEW
 25.05.2026 - Added Xrast_plot_ipynb.zip, which contains four Jupyter notebooks demonstrating how to create advanced plots in Python from text files exported by Xraster.
 
 NEW
@@ -16,7 +19,7 @@ Xraster is embedded as a plugin in QGIS, enabling two-way integration for data p
 The installation process of Xraster in QGIS follows these steps:
 
     • You need to download the packaged plugin  xraster_gis_?.zip  from the   website:   https://github.com/urbanskigis/Xraster  to any directory.
-    • Open QGIS 3.xx (minimum version 3.20) - QGIS should be  installed using OSGeo4W installer with selected packages QGIS and GDAL (at least)
+    • Open QGIS 3.xx (minimum version 3.20 - don't use QGIS 4.xx) - QGIS should be  installed using OSGeo4W installer with selected packages QGIS and GDAL (at least)
     • Open "Plugin" menu from the top bar
     • Select "Manage and Install Plugins...
     • Go to "Install from ZIP"
