@@ -1,5 +1,9 @@
 # Xraster
 NEW
+9.11.2026 - Changes in this version. MHW and MCS calculations can now be performed entirely through the program interface, without the need for additional programming. Limitations on the number of region groups (objects) that can be created have been addressed. The current version supports the creation of more than one million objects.
+A new JupyterLab notebook contains code for generating additional products for the analysis of MHW/MCS objects.
+
+NEW
 16.09.2026 - The new version (5) of Xraster introduces a workflow for the calculation, analysis, and mapping of Marine Heat Waves (MHWs), based on the standard definition commonly used in marine science. The workflow is described in a separate tutorial. Additionally, a new tutorial for the analysis of climate data has been added, available in both Polish and English.
 
 NEW
